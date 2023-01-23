@@ -1,0 +1,21 @@
+body{
+    position: relative;
+}
+
+.table{
+    position: absolute;
+    width: 70%;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    margin: 50px auto;
+}
+
+th{
+    text-align: center;
+    border: 1px solid black;
+    padding: 5px;
+    width: 12.5%;
+}
+
